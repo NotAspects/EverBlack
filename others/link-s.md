@@ -10,7 +10,7 @@ You will find all the links related to the project.
 
 ### Twitter
 
-> [https://twitter](https://docs.everblack.xyz/)
+> [https://twitter.com/everblacknft](https://twitter.com/everblacknft)
 
 ### Documentation
 

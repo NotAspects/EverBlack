@@ -6,4 +6,4 @@
 >
 > More revealed in due course.
 
-![](<../.gitbook/assets/output-onlinegiftools (6).gif>)
+![](../.gitbook/assets/tether.gif)

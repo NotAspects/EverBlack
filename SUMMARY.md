@@ -2,9 +2,9 @@
 
 ## Introduction
 
-* [🧑💻 Who are we?](README.md)
+* [🧑💻 🧑💻 Who are we?](README.md)
 
-## Roadmap&#x20;
+## Roadmap
 
 * [🛣 Roadmap (Chapter I)](roadmap/roadmap-chapter-i.md)
 

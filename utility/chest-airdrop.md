@@ -6,9 +6,8 @@ description: >-
 
 # 📦 Chest \[AirDrop]
 
-![](<../.gitbook/assets/output-onlinegiftools (3).gif>)
+![](../.gitbook/assets/output-onlinegiftools.gif)
 
 ## Information
 
 All will be revealed in due course.
-

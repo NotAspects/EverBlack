@@ -4,8 +4,6 @@ description: Frequently asked questions about our roadmap that will power our ec
 
 # 🛣 Roadmap (Chapter I)
 
-
-
 ![Chapter I](../.gitbook/assets/output-onlinegiftools\(2\).gif)
 
 {% hint style="info" %}
@@ -16,7 +14,7 @@ description: Frequently asked questions about our roadmap that will power our ec
 
 > * [ ] 1 - `Proceed to our mint - ��� Card Access`
 
-![Key #1](<../.gitbook/assets/output-onlinegiftools (1) (1).gif>)
+![Key #1](<../.gitbook/assets/output-onlinegiftools (1) (2).gif>)
 
 > * [ ] 2 - `Establishement The Everblack Network, Elite group of share holders`
 
@@ -24,7 +22,7 @@ description: Frequently asked questions about our roadmap that will power our ec
 [utility-governance-token.md](../tokenomics/utility-governance-token.md)
 {% endcontent-ref %}
 
-> * [ ] 3 - `EverLab. [Stacking System]`&#x20;
+> * [ ] 3 - `EverLab. [Stacking System]`
 
 {% content-ref url="../tokenomics/everblack-laboratory-staking-system.md" %}
 [everblack-laboratory-staking-system.md](../tokenomics/everblack-laboratory-staking-system.md)
@@ -36,7 +34,7 @@ description: Frequently asked questions about our roadmap that will power our ec
 
 > * [ ] 5 - `Holders Airdrop - Chest`
 
-![Chest #247](<../.gitbook/assets/output-onlinegiftools (3).gif>)
+![Chest #247](../.gitbook/assets/output-onlinegiftools.gif)
 
 > * [ ] 6 - `NFT Trading 2.0`
 
@@ -54,7 +52,7 @@ description: Frequently asked questions about our roadmap that will power our ec
 
 ![](<../.gitbook/assets/Screenshot\_3 (2).png>)
 
-### Short term&#x20;
+### Short term
 
 > * [ ] `Holder Verification (w/ Matrica)`
 > * [ ] `Integration of the sales bot`
