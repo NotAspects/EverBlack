@@ -1,2 +1,5 @@
-# EverBlack
-Whitepaper 1.0
+# 🧑💻 Who are we?
+
+
+
+![](<.gitbook/assets/output-onlinegiftools (5).gif>)
