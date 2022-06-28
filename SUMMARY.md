@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [🧑💻 🧑💻 Who are we?](README.md)
+* [🧑💻 Who are we?](README.md)
 
 ## Roadmap
 
