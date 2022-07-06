@@ -6,7 +6,7 @@
 
 ## Roadmap
 
-* [🛣 Roadmap (Chapter I)](roadmap/roadmap-chapter-i.md)
+* [🛣 Roadmap](roadmap/roadmap-chapter-i.md)
 
 ## Tokenomics
 
